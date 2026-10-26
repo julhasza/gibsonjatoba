@@ -1,0 +1,14 @@
+{
+  "title": "Gibson Jatobá | Arquitetura",
+  "icons": {
+    "icon": "/gibson-jatoba-icon.svg"
+  },
+  "description": "Apresenta o trabalho do arquiteto Gibson Jatobá com manifesto, portfólio de projetos e acesso fácil para clientes interessados em arquitetura contemporânea.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
